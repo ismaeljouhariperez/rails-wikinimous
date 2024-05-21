@@ -13,3 +13,8 @@
  *= require_tree .
  *= require_self
  */
+
+ article h1, article h2, article h3, article h4, article h5, article h6 {
+  font-family: "Roboto Slab";
+  font-weight: 400;
+}
